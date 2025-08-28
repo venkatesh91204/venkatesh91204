@@ -64,5 +64,6 @@ Worked on the **entire verification environment**, with **major contribution on 
 * Developed directed + random sequences for multiple payment scenarios
 * Integrated analysis ports with scoreboard and reference model
 * Debugged key UVM issues (virtual interface binding, redundant classes, connectivity)
+For Reference EDA playground Link: https://edaplayground.com/x/6rrw
 
 
