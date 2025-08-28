@@ -1,4 +1,4 @@
-## Vending Machine Controller – UVM Verification
+## Vending Machine Controller Sure ProEd
 
 📌 Project Overview
 
